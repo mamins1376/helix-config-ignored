@@ -1,0 +1,6 @@
+[[language]]
+name = "rust"
+
+[language.config]
+checkOnSave.allTargets = false 
+cargo.target = "thumbv6m-none-eabi" 
